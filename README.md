@@ -1,3 +1,3 @@
 # Dumb-Drum
-Just ur usual drum right?
-#spoiler, spaghetti code
+Simple Drum Kit with Sounds
+
